@@ -1,0 +1,46 @@
+# HelloBot
+![](http://m.qpic.cn/psb?/V12aIGgQ3D78BF/VZCkbJNofPN.RznuTHVaGs2QNv.usFr*MrTBrhlYCY0!/b/dEwBAAAAAAAA&bo=IANsAiADbAIRCT4!&rf=viewer_4)
+# Introduction
+This is a mobile programming robot platform based on BBC original Micro:bit development board. We have designed three different shapes for this robot: basic model, clip model, and lift model. The Hellobot programmable robot is designed for teenagers over 10 years old. It is easy to install with a screwdriver. The whole vehicle adopts the design of the reverse connection socket, and the custom cable and the network cable port to ensure connection is simple and safe.
+
+Yahboom intelligent dedicated micro:bit building block function library is provided, matching the various functions of this smart car. You could use it by dragging the building block directly. It is not necessary to edit the building block content and easy to program. From the entry level graphical coding to Python, it can meet the study needs for learners in different levels.
+
+The Hellobot programming robot is equipped with micro:bit. Micro:bit come with wireless networking function, we use this to allow multiple robots to network one-click to complete the synchronized action, and multiple robots can also be controlled by Bluetooth APP by Android mobile. When the mobile APP is close to the car, the Bluetooth is automatically connected, and the APP can be used to control the car to complete various fun and interesting gameplay.
+
+In addition, this robot is expandability, we provide two kinds of expansion package, Clip pack and Lift pack. Coupled with your creativity, you can easily create a multi-functional smart robot.
+# Features
+* Simple installation, unique shape
+
+* Innovative networking gameplay.
+
+* Multiple functions: arm touch, tracking, ultrasonic obstacle avoidance, following, light discoloration, singing, etc.
+
+* Controlled by IR remote control, and APP remote control by Android mobile.
+
+* Support graphical programming and Python programming, and we will provide related tutorials as a reference.
+# Required Best Buy Links
+[By on Amazon](https://www.amazon.com/Yahboom-Mirco-Education-Robotics-Hellobot/dp/B07H3JLR2C/ref=sr_1_34?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567601196&s=merchant-items&sr=1-34)
+
+[By on Yahboom website](https://category.yahboom.net/collections/mb-smart-robot/products/hellobot)
+# Download Method
+
+![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/Gk6oMISv0Zdy3vUdWVM7WBwhdhu*oxS5a3mUVK52GGU!/r/dL4AAAAAAAAA)
+
+# Please Contact Us
+If you have any problem when using our robot after checking the tutorial, please contact us.
+### Facebook:
+https://www.facebook.com/yahboomcar/
+
+https://www.facebook.com/yahboomtech
+### WhatsApp:
++86 15818515042
+
++86 18682378128
+### Skype:
+sales_79883
+
+Dolphin2448534184@gmail.com
+### Technical support email:
+market@yahboom.com
+### Amazon support email:
+amazon@yahboom.com
