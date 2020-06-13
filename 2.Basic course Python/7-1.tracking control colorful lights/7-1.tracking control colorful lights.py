@@ -1,5 +1,7 @@
 from microbit import *
 import neopixel
+import microbit
+microbit.display.off()
 
 np = neopixel.NeoPixel(pin2, 4)
 while True:

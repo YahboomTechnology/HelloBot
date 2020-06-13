@@ -1,6 +1,8 @@
 from microbit import *
 import neopixel
 import random
+import microbit
+microbit.display.off()
 
 display.show(Image.HAPPY)
 nq = neopixel.NeoPixel(pin6, 1)

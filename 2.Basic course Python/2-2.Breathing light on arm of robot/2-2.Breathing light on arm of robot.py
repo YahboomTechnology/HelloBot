@@ -1,5 +1,7 @@
 from microbit import *
 import neopixel
+import microbit
+microbit.display.off()
 
 display.show(Image.HAPPY)
 np1 = neopixel.NeoPixel(pin6, 1)
