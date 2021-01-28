@@ -22,9 +22,6 @@ In addition, this robot is expandability, we provide two kinds of expansion pack
 [By on Amazon](https://www.amazon.com/Yahboom-Mirco-Education-Robotics-Hellobot/dp/B07H3JLR2C/ref=sr_1_34?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567601196&s=merchant-items&sr=1-34)
 
 [By on Yahboom website](https://category.yahboom.net/collections/mb-smart-robot/products/hellobot)
-# Download Method
-
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/Gk6oMISv0Zdy3vUdWVM7WBwhdhu*oxS5a3mUVK52GGU!/r/dL4AAAAAAAAA)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
