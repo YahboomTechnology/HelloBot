@@ -19,8 +19,6 @@ In addition, this robot is expandability, we provide two kinds of expansion pack
 
 * Support graphical programming and Python programming, and we will provide related tutorials as a reference.
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/Yahboom-Mirco-Education-Robotics-Hellobot/dp/B07H3JLR2C/ref=sr_1_34?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567601196&s=merchant-items&sr=1-34)
-
 [By on Yahboom website](https://category.yahboom.net/collections/mb-smart-robot/products/hellobot)
 
 # Please Contact Us
